@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\cf_roy\axe"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\cf_roy\axe_ref"
+                "$bumpmap" "models\weapons\v_models\cf_roy\axe_normal"
+                "$normalmapalphaenvmapmask" "1"
+                "$envmaptint"        "[0.01 0.01 0.01]"
+                "$phong"                 "1"
+                "$phongtint"                "[0.7 0.9 1]"
+                "$phongboost" "1"
+                "$phongfresnelranges"        "[0.2 0.4 1.0]" 
+}

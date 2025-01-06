@@ -1,0 +1,8 @@
+"basewars"
+{
+	"base"		"sandbox"
+	"title"		"BaseWars"
+	"category"	"pvp"
+	"maps"		"^bw_"
+	"menusystem"	"1"
+}

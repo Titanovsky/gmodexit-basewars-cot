@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ugc/76561197972497202/sci_fi/briefcase_4"
+	"$bumpmap" 	"models/ugc/76561197972497202/sci_fi/briefcase_n"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/ugc/76561197972497202/sci_fi/briefcase_exp"
+//	"$phongexponent" 5
+	"$phongboost" "2"
+	"$phongfresnelranges"	"[ .3 1.2 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "8"				
+	"$rimlightboost" ".3"
+	"$rimmask" "1"
+}

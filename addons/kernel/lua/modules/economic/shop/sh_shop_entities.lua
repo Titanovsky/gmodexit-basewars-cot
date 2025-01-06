@@ -1,0 +1,1 @@
+local Add = AMB.Economic.ShopAddEntity
